@@ -45,9 +45,11 @@
 
 </div>
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Oza-ui&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Oza-ui&theme=github_dark)
+
 </div>
 <div align="center">
 
